@@ -697,6 +697,12 @@ section {
 
  .accordion-list1 {
   padding: 0 100px 60px 100px;
+
+}
+
+.accordion-list1 li {
+  
+  border: 1px solid black;
 }
 
  .accordion-list ul {
@@ -712,7 +718,6 @@ section {
   padding: 20px;
   background: #fff;
   border-radius: 4px;
-  border: 1px solid black;
 }
 
  .accordion-list a {
@@ -1536,7 +1541,7 @@ section {
   padding: 15px 0;
   background: #f3f5fa;
   min-height: 40px;
-  margin-top: 72px;
+  margin-top: 100px;
 }
 
 @media (max-width: 992px) {
